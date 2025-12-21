@@ -1,0 +1,20 @@
+cat > .gitignore << 'EOF'
+# macOS
+.DS_Store
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+  
+  # Renvironment (if you used renv)
+  renv/library/
+  renv/python/
+  renv/staging/
+  
+  # Data & outputs (adjust to your instructor expectations)
+
+  outputs/
+
+  EOF

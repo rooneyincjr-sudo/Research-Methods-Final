@@ -1,0 +1,3 @@
+test,statistic,p_value,estimate,conf_low,conf_high
+Fisher exact (H1),NA,0.01257244803148785,0.22029530214772286,0.039515066040781956,0.8171919792289826
+Wilcoxon rank-sum (H2),1015.5,0.010471894984334092,NA,NA,NA

@@ -1,0 +1,2 @@
+"test","statistic","parameter","p_value","conf_low","conf_high","mean_group0","mean_group1","method"
+"Welch t-test (H2)",-0.95370612609874,19.7639335253504,0.351752223291663,-13.1497100065812,4.90251899534522,10,14.123595505618,"Welch Two Sample t-test"

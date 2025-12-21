@@ -1,0 +1,197 @@
+cowcode,baseline_year,military_bin,ever_coup_post,conflict_years_post,years_post,conflict_share_post,military_group,country_name
+2,1946,1,0,68,68,1,Military mentioned,United States
+20,1946,1,0,18,68,0.2647058823529412,Military mentioned,Canada
+31,1973,1,0,1,41,0.024390243902439025,Military mentioned,Bahamas
+40,1946,1,1,19,68,0.27941176470588236,Military mentioned,Cuba
+41,1946,1,1,8,68,0.11764705882352941,Military mentioned,Haiti
+42,1946,1,1,9,68,0.1323529411764706,Military mentioned,Dominican Republic
+51,1962,1,0,2,52,0.038461538461538464,Military mentioned,Jamaica
+52,1976,1,0,1,38,0.02631578947368421,Military mentioned,Trinidad & Tobago
+53,1966,1,0,1,48,0.020833333333333332,Military mentioned,Barbados
+54,1978,1,0,1,36,0.027777777777777776,Military mentioned,Dominica
+55,1974,1,0,1,40,0.025,Military mentioned,Grenada
+56,1978,1,0,1,36,0.027777777777777776,Military mentioned,St. Lucia
+57,1979,1,0,1,35,0.02857142857142857,Military mentioned,St. Vincent & Grenadines
+58,1981,1,0,1,33,0.030303030303030304,Military mentioned,Antigua & Barbuda
+60,1983,0,0,0,31,0,No military mention,St. Kitts & Nevis
+70,1946,1,0,4,68,0.058823529411764705,Military mentioned,Mexico
+80,1981,1,0,6,33,0.18181818181818182,Military mentioned,Belize
+90,1946,1,1,13,68,0.19117647058823528,Military mentioned,Guatemala
+91,1946,1,1,22,68,0.3235294117647059,Military mentioned,Honduras
+92,1950,1,1,5,64,0.078125,Military mentioned,El Salvador
+93,1946,1,0,29,68,0.4264705882352941,Military mentioned,Nicaragua
+94,1946,1,1,15,68,0.22058823529411764,Military mentioned,Costa Rica
+95,1946,1,1,5,68,0.07352941176470588,Military mentioned,Panama
+100,1946,1,1,16,68,0.23529411764705882,Military mentioned,Colombia
+101,1946,1,1,18,68,0.2647058823529412,Military mentioned,Venezuela
+110,1966,1,0,9,48,0.1875,Military mentioned,Guyana
+115,1975,1,0,2,39,0.05128205128205128,Military mentioned,Suriname
+130,1946,1,1,19,68,0.27941176470588236,Military mentioned,Ecuador
+135,1946,1,1,18,68,0.2647058823529412,Military mentioned,Peru
+140,1946,1,1,7,68,0.10294117647058823,Military mentioned,Brazil
+145,1946,1,1,1,68,0.014705882352941176,Military mentioned,Bolivia
+150,1946,1,1,2,68,0.029411764705882353,Military mentioned,Paraguay
+155,1946,1,1,21,68,0.3088235294117647,Military mentioned,Chile
+160,1946,1,1,28,68,0.4117647058823529,Military mentioned,Argentina
+165,1985,1,0,0,29,0,Military mentioned,Uruguay
+200,1946,1,0,49,68,0.7205882352941176,Military mentioned,United Kingdom
+205,1946,1,0,1,68,0.014705882352941176,Military mentioned,Ireland
+210,1946,1,0,21,68,0.3088235294117647,Military mentioned,Netherlands
+211,1946,1,0,13,68,0.19117647058823528,Military mentioned,Belgium
+212,1946,1,0,7,68,0.10294117647058823,Military mentioned,Luxembourg
+220,1946,1,1,38,68,0.5588235294117647,Military mentioned,France
+221,1946,0,0,0,68,0,No military mention,Monaco
+223,1946,0,0,0,68,0,No military mention,Liechtenstein
+225,1999,1,0,2,15,0.13333333333333333,Military mentioned,Switzerland
+230,1978,1,1,15,36,0.4166666666666667,Military mentioned,Spain
+232,1993,0,0,0,21,0,No military mention,Andorra
+235,1946,1,1,21,68,0.3088235294117647,Military mentioned,Portugal
+260,1949,1,0,10,65,0.15384615384615385,Military mentioned,NA
+265,1949,0,1,6,65,0.09230769230769231,No military mention,German Democratic Republic
+290,1947,1,1,10,67,0.14925373134328357,Military mentioned,Poland
+305,1946,1,0,4,68,0.058823529411764705,Military mentioned,Austria
+310,1946,1,1,13,68,0.19117647058823528,Military mentioned,Hungary
+315,1946,1,1,9,68,0.1323529411764706,Military mentioned,Czechoslovakia
+316,1993,1,0,3,21,0.14285714285714285,Military mentioned,Czechia
+317,1992,1,0,2,22,0.09090909090909091,Military mentioned,Slovakia
+325,1946,1,0,15,68,0.22058823529411764,Military mentioned,Italy
+338,1964,1,0,0,50,0,Military mentioned,Malta
+339,1946,1,0,16,68,0.23529411764705882,Military mentioned,Albania
+340,1946,1,0,0,68,0,Military mentioned,NA
+341,2006,0,0,1,8,0.125,No military mention,Montenegro
+343,1991,1,0,6,23,0.2608695652173913,Military mentioned,North Macedonia
+344,1991,1,0,7,23,0.30434782608695654,Military mentioned,Croatia
+346,1995,1,0,0,19,0,Military mentioned,Bosnia & Herzegovina
+347,2008,1,0,2,6,0.3333333333333333,Military mentioned,Kosovo
+349,1991,1,0,2,23,0.08695652173913043,Military mentioned,Slovenia
+350,1952,1,1,36,62,0.5806451612903226,Military mentioned,Greece
+352,1960,1,0,16,54,0.2962962962962963,Military mentioned,Cyprus
+355,1947,1,1,8,67,0.11940298507462686,Military mentioned,Bulgaria
+359,1978,1,0,4,36,0.1111111111111111,Military mentioned,Moldova
+360,1948,1,1,9,66,0.13636363636363635,Military mentioned,Romania
+365,1946,1,1,62,68,0.9117647058823529,Military mentioned,Russia
+366,1991,1,0,5,23,0.21739130434782608,Military mentioned,Estonia
+367,1991,1,0,3,23,0.13043478260869565,Military mentioned,Latvia
+368,1992,1,0,7,22,0.3181818181818182,Military mentioned,Lithuania
+369,1978,1,0,11,36,0.3055555555555556,Military mentioned,Ukraine
+370,1994,1,0,1,20,0.05,Military mentioned,Belarus
+371,1995,1,1,19,19,1,Military mentioned,Armenia
+372,1992,1,0,19,22,0.8636363636363636,Military mentioned,Georgia
+373,1991,1,1,23,23,1,Military mentioned,Azerbaijan
+375,1946,1,0,7,68,0.10294117647058823,Military mentioned,Finland
+380,1974,1,0,8,40,0.2,Military mentioned,Sweden
+385,1946,1,0,14,68,0.20588235294117646,Military mentioned,Norway
+390,1946,1,0,9,68,0.1323529411764706,Military mentioned,Denmark
+395,1946,0,0,12,68,0.17647058823529413,No military mention,Iceland
+402,1980,1,0,0,34,0,Military mentioned,Cape Verde
+403,1975,1,0,0,39,0,Military mentioned,São Tomé & Príncipe
+404,1973,1,1,1,41,0.024390243902439025,Military mentioned,Guinea-Bissau
+411,1968,1,0,2,46,0.043478260869565216,Military mentioned,Equatorial Guinea
+420,1970,1,1,2,44,0.045454545454545456,Military mentioned,Gambia
+432,1960,1,1,7,54,0.12962962962962962,Military mentioned,Mali
+433,1960,1,1,7,54,0.12962962962962962,Military mentioned,Senegal
+434,1960,1,1,4,54,0.07407407407407407,Military mentioned,Benin
+435,1961,1,1,7,53,0.1320754716981132,Military mentioned,Mauritania
+436,1960,1,1,4,54,0.07407407407407407,Military mentioned,Niger
+437,1960,1,1,10,54,0.18518518518518517,Military mentioned,Côte d’Ivoire
+438,1958,1,1,11,56,0.19642857142857142,Military mentioned,Guinea
+439,1960,1,1,4,54,0.07407407407407407,Military mentioned,Burkina Faso
+450,1946,1,1,10,68,0.14705882352941177,Military mentioned,Liberia
+451,1961,1,1,6,53,0.11320754716981132,Military mentioned,Sierra Leone
+452,1957,1,1,12,57,0.21052631578947367,Military mentioned,Ghana
+461,1963,1,1,4,51,0.0784313725490196,Military mentioned,Togo
+471,1960,1,1,10,54,0.18518518518518517,Military mentioned,Cameroon
+475,1960,1,1,11,54,0.2037037037037037,Military mentioned,Nigeria
+481,1960,1,1,3,54,0.05555555555555555,Military mentioned,Gabon
+482,1959,1,1,5,55,0.09090909090909091,Military mentioned,Central African Republic
+483,1960,1,1,21,54,0.3888888888888889,Military mentioned,Chad
+484,1961,1,1,8,53,0.1509433962264151,Military mentioned,Congo - Brazzaville
+490,1960,1,1,32,54,0.5925925925925926,Military mentioned,Congo - Kinshasa
+500,1967,1,1,29,47,0.6170212765957447,Military mentioned,Uganda
+501,1963,1,1,24,51,0.47058823529411764,Military mentioned,Kenya
+510,1977,1,0,4,37,0.10810810810810811,Military mentioned,Tanzania
+516,1962,1,1,8,52,0.15384615384615385,Military mentioned,Burundi
+517,1962,1,1,17,52,0.3269230769230769,Military mentioned,Rwanda
+520,1960,1,1,31,54,0.5740740740740741,Military mentioned,Somalia
+522,1977,1,0,4,37,0.10810810810810811,Military mentioned,Djibouti
+530,1946,1,1,41,68,0.6029411764705882,Military mentioned,Ethiopia
+531,1997,1,0,12,17,0.7058823529411765,Military mentioned,Eritrea
+540,1975,1,1,24,39,0.6153846153846154,Military mentioned,Angola
+541,1975,1,0,9,39,0.23076923076923078,Military mentioned,Mozambique
+551,1964,1,1,22,50,0.44,Military mentioned,Zambia
+552,1965,1,1,17,49,0.3469387755102041,Military mentioned,Zimbabwe
+553,1964,1,0,2,50,0.04,Military mentioned,Malawi
+560,1961,1,0,18,53,0.33962264150943394,Military mentioned,South Africa
+565,1990,1,0,6,24,0.25,Military mentioned,Namibia
+570,1966,1,1,3,48,0.0625,Military mentioned,Lesotho
+571,1966,1,0,11,48,0.22916666666666666,Military mentioned,Botswana
+572,2005,1,0,0,9,0,Military mentioned,Eswatini
+580,1959,1,1,1,55,0.01818181818181818,Military mentioned,Madagascar
+581,1975,1,0,1,39,0.02564102564102564,Military mentioned,Comoros
+590,1968,1,0,0,46,0,Military mentioned,Mauritius
+591,1979,1,0,0,35,0,Military mentioned,Seychelles
+600,1962,1,1,12,52,0.23076923076923078,Military mentioned,Morocco
+615,1963,1,1,6,51,0.11764705882352941,Military mentioned,Algeria
+616,1956,0,1,8,58,0.13793103448275862,No military mention,Tunisia
+620,1951,1,1,19,63,0.30158730158730157,Military mentioned,Libya
+625,1971,1,1,29,43,0.6744186046511628,Military mentioned,Sudan
+630,1946,1,1,49,68,0.7205882352941176,Military mentioned,Iran
+640,1946,1,1,49,68,0.7205882352941176,Military mentioned,Turkey
+645,1946,1,1,55,68,0.8088235294117647,Military mentioned,Iraq
+651,1953,0,1,41,61,0.6721311475409836,No military mention,Egypt
+652,1946,1,1,58,68,0.8529411764705882,Military mentioned,Syria
+660,1946,1,1,39,68,0.5735294117647058,Military mentioned,Lebanon
+663,1946,1,0,34,68,0.5,Military mentioned,Jordan
+666,1949,0,0,62,65,0.9538461538461539,No military mention,Israel
+670,1992,1,0,14,22,0.6363636363636364,Military mentioned,Saudi Arabia
+678,1962,1,1,10,52,0.19230769230769232,Military mentioned,Yemen Arab Republic
+680,1970,1,1,11,44,0.25,Military mentioned,Yemen People's Republic
+690,1962,1,0,24,52,0.46153846153846156,Military mentioned,Kuwait
+692,1973,1,0,4,41,0.0975609756097561,Military mentioned,Bahrain
+694,2003,1,0,1,11,0.09090909090909091,Military mentioned,Qatar
+696,1971,1,0,10,43,0.23255813953488372,Military mentioned,United Arab Emirates
+698,1996,1,0,1,18,0.05555555555555555,Military mentioned,Oman
+700,1946,1,1,37,68,0.5441176470588235,Military mentioned,Afghanistan
+701,1992,1,0,2,22,0.09090909090909091,Military mentioned,Turkmenistan
+702,1994,1,0,9,20,0.45,Military mentioned,Tajikistan
+703,1993,1,0,11,21,0.5238095238095238,Military mentioned,Kyrgyzstan
+704,1992,1,0,15,22,0.6818181818181818,Military mentioned,Uzbekistan
+705,1993,1,0,5,21,0.23809523809523808,Military mentioned,Kazakhstan
+710,1946,1,0,58,68,0.8529411764705882,Military mentioned,China
+712,1946,1,1,1,68,0.014705882352941176,Military mentioned,Mongolia
+713,1947,1,0,35,67,0.5223880597014925,Military mentioned,Taiwan
+731,1948,1,0,58,66,0.8787878787878788,Military mentioned,North Korea
+732,1948,1,1,61,66,0.9242424242424242,Military mentioned,South Korea
+740,1946,0,0,34,68,0.5,No military mention,Japan
+750,1949,1,0,56,65,0.8615384615384616,Military mentioned,India
+760,1953,0,0,3,61,0.04918032786885246,No military mention,Bhutan
+770,1956,1,1,49,58,0.8448275862068966,Military mentioned,Pakistan
+771,1972,1,1,24,42,0.5714285714285714,Military mentioned,Bangladesh
+775,1947,1,1,33,67,0.4925373134328358,Military mentioned,Myanmar (Burma)
+780,1972,1,0,3,42,0.07142857142857142,Military mentioned,Sri Lanka
+781,1968,0,0,0,46,0,No military mention,Maldives
+790,1948,1,1,6,66,0.09090909090909091,Military mentioned,Nepal
+800,1949,1,1,58,65,0.8923076923076924,Military mentioned,Thailand
+811,1947,1,1,33,67,0.4925373134328358,Military mentioned,Cambodia
+812,1947,1,1,26,67,0.3880597014925373,Military mentioned,Laos
+816,1960,1,0,40,54,0.7407407407407407,Military mentioned,Vietnam
+817,1956,1,1,17,58,0.29310344827586204,Military mentioned,Republic of Vietnam
+820,1957,1,0,15,57,0.2631578947368421,Military mentioned,Malaysia
+830,1963,1,0,2,51,0.0392156862745098,Military mentioned,Singapore
+835,1959,1,0,0,55,0,Military mentioned,Brunei
+840,1946,1,1,25,68,0.36764705882352944,Military mentioned,Philippines
+850,1946,1,1,22,68,0.3235294117647059,Military mentioned,Indonesia
+860,2002,1,0,0,12,0,Military mentioned,Timor-Leste
+900,1946,1,0,19,68,0.27941176470588236,Military mentioned,Australia
+910,1975,1,0,3,39,0.07692307692307693,Military mentioned,Papua New Guinea
+920,1946,0,0,13,68,0.19117647058823528,No military mention,New Zealand
+935,1980,1,0,0,34,0,Military mentioned,Vanuatu
+940,1978,1,0,2,36,0.05555555555555555,Military mentioned,Solomon Islands
+947,1986,0,0,0,28,0,No military mention,Tuvalu
+950,1970,1,0,0,44,0,Military mentioned,Fiji
+955,1946,1,0,0,68,0,Military mentioned,Tonga
+970,1968,0,0,0,46,0,No military mention,Nauru
+983,1979,1,0,0,35,0,Military mentioned,Marshall Islands
+986,1981,1,0,0,33,0,Military mentioned,Palau
+987,1978,0,0,0,36,0,No military mention,Micronesia (Federated States of)
+990,1962,0,0,0,52,0,No military mention,Samoa
